@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\Edge_download\CommonConnectionPool\CommonConnectionPool\main.cpp(32,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/main.cpp”)
+  
+D:\Edge_download\CommonConnectionPool\CommonConnectionPool\main.cpp(49,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/main.cpp”)
+  
+D:\Edge_download\CommonConnectionPool\CommonConnectionPool\main.cpp(67,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/main.cpp”)
+  
+D:\Edge_download\CommonConnectionPool\CommonConnectionPool\main.cpp(84,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (编译源文件“/main.cpp”)
+  
+  CommonConnectionPool.vcxproj -> D:\Edge_download\CommonConnectionPool\x64\Debug\CommonConnectionPool.exe
